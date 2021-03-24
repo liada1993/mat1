@@ -82,35 +82,6 @@ def calculate(x:float):
 
 
 
-print(XtimesY(-2,2))
-print(XtimesY(-2.2, -2))
-print(sqrt(2.5, 4))
-print(exponent(2.5))
-print(Ln(1.5))
-print(calculate(1))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# print('checking input sqrt(2,4) is:', (sqrt(2,4) - pow_(4, 1/2)) < 0.001 )
-# print('checking input sqrt(-2,4) is:', (sqrt(-2,4) - 0.5) < 0.001 )
-# print(sqrt(-2,4))
-# #print(sqrt(0,4))
-           
         
         
         
